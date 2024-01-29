@@ -325,3 +325,4 @@ H-Distance(Simhash(K1), SimHash(k2) <= Y (y is normally 3)
 
 # Intro to Information Retrieval 
 LLM = Large Language Model  
+Indexing information and retrieving it methodology  
