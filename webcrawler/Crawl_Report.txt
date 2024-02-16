@@ -1,0 +1,44 @@
+Name: Jared Vaughn
+USC ID: 4405675796
+News site crawled: https://www.latimes.com
+Number of threads: 4
+
+Fetch Statistics
+================
+fetches attempted: 19994
+fetches succeeded: 19724
+fetches failed or aborted: 270
+
+Outgoing URLs:
+==============
+Total URLs extracted: 3983166
+# unique URLs extracted: 1330193
+# unique URLs within News Site: 71370
+# unique URLs outside News Site: 1258823
+
+Status Codes:
+=============
+200 OK: 19724
+301 Moved Permanently: 64
+302 Found: 25
+307 Temporary Redirect: 131
+404 Not Found: 50
+
+File Sizes:
+===========
+< 1KB: 76
+1KB ~ <10KB: 372
+10KB ~ <100KB: 826
+100KB ~ <1MB: 18065
+>= 1MB: 17
+
+Content Types:
+==============
+application/pdf: 1
+image/jpeg: 305
+image/png: 362
+image/svg+xml: 40
+image/webp: 23
+text/css: 1
+text/csv: 1
+text/html: 18623
