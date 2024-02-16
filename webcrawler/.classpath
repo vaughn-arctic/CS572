@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/apache-mime4j-core-0.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/apache-mime4j-dom-0.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/crawler4j-4.1-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/crawler4j-4.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/guava-24.0-jre.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/jcl-over-slf4j-1.7.24.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/je-5.0.84.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/jul-to-slf4j-1.7.24.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/logback-classic-1.1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/logback-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/tika-core-1.16.jar"/>
+	<classpathentry kind="lib" path="/Users/vaughn/Desktop/WebCrawler/libs/tika-parsers-1.16.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
